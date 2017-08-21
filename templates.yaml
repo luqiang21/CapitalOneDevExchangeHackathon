@@ -1,0 +1,7 @@
+welcome: Welcome to Max app. Please select a reward balance you want to check, points or miles?
+
+round: Hello, Your rewards balance is {{ numbers }}.
+
+win: Good job!
+
+lose: Sorry, that's the wrong answer.
